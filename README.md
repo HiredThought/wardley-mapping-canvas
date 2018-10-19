@@ -12,7 +12,7 @@ The canvas has much room for improvement. Let's talk!
 
 1. Open an issue here, describing what you're aiming to improve (we'll have some helpful discussion)
 2. Register an account on [RealtimeBoard](https://realtimeboard.com)
-3. Create a new board (Note: this must be [from the dashboard](https://realtimeboard.com/app/dashboard/) to use a template)
+3. Open [the dashboard](https://realtimeboard.com/app/dashboard/) and create a new board
 4. Select the Wardley Mapping Canvas from the templates
 5. Make desired changes and export the image as a high-quality jpg
 6. Fork the repository and open a pull request
