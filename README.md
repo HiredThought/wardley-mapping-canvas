@@ -2,7 +2,7 @@
 
 The Wardley Mapping Canvas helps newcomers with their first mapping experiences by offering a structure that makes mapping a step-by-step process. See [the guest post on Miro](https://miro.com/blog/wardley-maps-whiteboard-canvas/) for more information.
 
-
+[View in Miro here](https://miro.com/app/board/uXjVOXUVotA=/). (Copy permission is enabled.)
 
 # License
 
