@@ -4,6 +4,28 @@ The Wardley Mapping Canvas helps newcomers with their first mapping experiences 
 
 [View in Miro here](https://miro.com/app/board/uXjVOXUVotA=/). (Copy permission is enabled.)
 
+# Usage
+
+## Miro
+
+1. Open the template library in the Miroverse
+1. Search for "Wardley Mapping"
+1. Select the Wardley Mapping Canvas
+
+## Mural
+
+1. [Download the canvas](https://github.com/HiredThought/wardley-mapping-canvas/raw/master/Wardley%20Mapping%20Canvas.jpg)
+1. Upload the image in your Mural board
+
+## Excalidraw
+
+1. [Download the `.excalidrawlib` file](https://raw.githubusercontent.com/HiredThought/wardley-mapping-canvas/master/Wardley%20Map%20Canvas.excalidrawlib)
+1. Open the "Library" menu (top right) in Excalidraw
+1. Click the `...` button to open the dropdown menu
+1. Select "Open"
+1. In the resulting dialogue, upload the `.excalidrawlib` file.
+1. Choose canvas components from the Personal Library to add to your workspace
+
 # License
 
 The Wardley Mapping Canvas is licensed [Creative Commons BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) and incorporates concepts provided courtesy of [Simon Wardley](https://twitter.com/swardley) under the same license.
